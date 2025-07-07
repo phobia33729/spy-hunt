@@ -1,0 +1,13 @@
+{
+  "name": "spy-game",
+  "version": "1.0.0",
+  "description": "Multiplayer Spy Game using Socket.IO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
