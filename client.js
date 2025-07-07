@@ -1,6 +1,7 @@
 
 // client.js – multiplayer-enhanced for your full anime UI
-const socket = io();
+const socket = io('https://your-app-name.onrender.com');
+
 
 let currentPlayer = {};
 let players = [];
